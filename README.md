@@ -23,4 +23,4 @@ presentación
 | Google Docs | ![alt text](https://github.com/polesteban/SMX2_M08_UF1_A2/blob/main/check.PNG "Imágen check")|
 | Google Slides | ![alt text](https://github.com/polesteban/SMX2_M08_UF1_A2/blob/main/check.PNG "Imágen check")|
 | Google sheets | ![alt text](https://github.com/polesteban/SMX2_M08_UF1_A2/blob/main/check.PNG "Imágen check")|
-| Google Calendar | 
+| Google Calendar | ![alt text](https://github.com/polesteban/SMX2_M08_UF1_A2/blob/main/calend.PNG "Imágen calendario") |
