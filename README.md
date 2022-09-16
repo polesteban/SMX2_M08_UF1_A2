@@ -19,5 +19,4 @@ presentación
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | **Aplicaciones** | **Visto** |
-|------------------|:|--------:|
-| Google Docs | nop |
+| Google Docs |
