@@ -10,3 +10,8 @@ Es una colección de páginas web relacionadas y comunes a un dominio de interne
 3. ¿Qué es una aplicación web?
 
 Las aplicaciones web son programas informáticos que se ejecutan en un servidor web, al que los usuarios acceden a través de internet, utilizando un navegador.
+
+4. ¿Qué es una herramienta ofimática?
+
+Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+presentación
